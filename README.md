@@ -6,7 +6,9 @@
 项目简介：结构光三维重建，包括系统标定、编解码、三维点重构等内容
 
 实验室往届工作
+
 李杰、廖宇诚
+
 https://github.com/GlatzeJ/structured-light/tree/master
 
 
